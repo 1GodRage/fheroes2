@@ -549,7 +549,7 @@ msgid "Monsters"
 msgstr "Monstres"
 
 msgid "N/A"
-msgstr ""
+msgstr "N/C"
 
 msgid "Left Turret"
 msgstr "Tourelle gauche"
@@ -1216,7 +1216,7 @@ msgstr ""
 "Impossible de construire %{name} parce que le château est trop loin de l'eau."
 
 msgid "disable build."
-msgstr ""
+msgstr "désactiver le bâtiment."
 
 msgid "Cannot afford %{name}."
 msgstr "Impossible d'acheter %{name}."
@@ -1783,7 +1783,7 @@ msgid "View the entire world."
 msgstr "Voir le monde entier."
 
 msgid "Puzzle"
-msgstr ""
+msgstr "Puzzle"
 
 msgid "View the obelisk puzzle."
 msgstr "Voir le puzzle de l'obélisque."
@@ -1930,7 +1930,7 @@ msgid "Quit out of Free Heroes of Might and Magic II."
 msgstr "Quittez le jeu Free Heroes of Might and Magic II."
 
 msgid "Language"
-msgstr ""
+msgstr "Langage"
 
 #, fuzzy
 msgid "Resolution"
@@ -1968,6 +1968,8 @@ msgid ""
 "Your version of Heroes of Might and Magic II does not support any languages "
 "except English."
 msgstr ""
+"Votre version de Heroes of Might and Magic II ne supporte pas d'autre langage "
+"autre que l'Anglais."
 
 msgid ""
 "Map\n"
@@ -2010,10 +2012,10 @@ msgstr ""
 "de Défaite"
 
 msgid "score: "
-msgstr ""
+msgstr "Score : "
 
 msgid "First select recipients!"
-msgstr ""
+msgstr "Sélectionnez d'abord les destinataires !"
 
 msgid "You cannot select %{resource}!"
 msgstr "Vous ne pouvez pas sélectionner %{resource} !"
@@ -2023,13 +2025,13 @@ msgstr "Sélectionner %{resource} :"
 
 #, fuzzy
 msgid "Select Recipients"
-msgstr "Description sélectionnée"
+msgstr "Sélectionnez les destinataires"
 
 msgid "Your Funds"
-msgstr ""
+msgstr "Votre trésor"
 
 msgid "Planned Gift"
-msgstr ""
+msgstr "Cadeau prévu"
 
 #, fuzzy
 msgid "Gift from %{name}"
@@ -2042,7 +2044,7 @@ msgid "Your army too big!"
 msgstr "Votre armée est trop grande !"
 
 msgid "Choose game language:"
-msgstr "Choix de la langue :"
+msgstr "Choix de la langue de jeu :"
 
 msgid "%{name} has gained a level."
 msgstr "%{name} a gagné un niveau."
@@ -2081,10 +2083,10 @@ msgstr ""
 "Je peux vous offrir 1 unité de %{resto} pour %{count} unités de %{resfrom}."
 
 msgid "max"
-msgstr ""
+msgstr "max"
 
 msgid "min"
-msgstr ""
+msgstr "min"
 
 msgid "Qty to trade"
 msgstr "Qté à échanger"
@@ -2165,7 +2167,7 @@ msgid "Number to buy:"
 msgstr "Recruter :"
 
 msgid "MAX"
-msgstr ""
+msgstr "MAX"
 
 msgid "How many troops to move?"
 msgstr "Combien de troupes à déplacer ?"
@@ -2537,31 +2539,31 @@ msgid "Please make sure that campaign files are correct and present."
 msgstr "Assurez-vous que les fichiers de campagne sont corrects et présents."
 
 msgid "Project Coordination and Core Development"
-msgstr ""
+msgstr "Coordination du projet et Core développement"
 
 msgid "QA and Support"
-msgstr ""
+msgstr "Assurance qualité et assistance"
 
 msgid "Development"
-msgstr ""
+msgstr "Développement"
 
 msgid "Visit us at "
-msgstr ""
+msgstr "Visitez-nous à "
 
 msgid "Special Thanks to"
-msgstr ""
+msgstr "Remerciements spéciaux à "
 
 msgid "Original project before 0.7"
-msgstr ""
+msgstr "Projet original avant 0.7"
 
 msgid "Support us at"
-msgstr ""
+msgstr "Supportez-nous à"
 
 msgid "Connect with us at"
-msgstr ""
+msgstr "Rejoignez-nous à"
 
 msgid "Need help with the game?"
-msgstr ""
+msgstr "Besoin d'aide avec le jeu ?"
 
 msgid "Unknown Hero"
 msgstr "Héros Inconnu"
@@ -2587,20 +2589,20 @@ msgstr ""
 "Certains éléments peuvent ne pas être disponibles."
 
 msgid "Usupported save format: "
-msgstr ""
+msgstr "Formats de fichier non-supporté : "
 
 #, fuzzy
 msgid "Current game version: "
 msgstr "Modificateurs de moral actuels :"
 
 msgid "Last supported version: "
-msgstr ""
+msgstr "Dernière version supportée : "
 
 msgid "This saved game is localized to '"
-msgstr ""
+msgstr "Cette sauvegarde est située ici : '"
 
 msgid "' language, but the current language of the game is '"
-msgstr ""
+msgstr "' , mais actuellement le langage du jeu est '"
 
 msgid "Hot Seat"
 msgstr "Tournante"
@@ -3224,7 +3226,7 @@ msgid "Russian"
 msgstr "Russe"
 
 msgid ", FPS: "
-msgstr ""
+msgstr ", IPS : "
 
 msgid "Ambrose"
 msgstr "Ambrose"
@@ -8029,7 +8031,7 @@ msgid "battle: reverse wait order (fast, average, slow)"
 msgstr "combat : ordre d'attente inversé (rapide, moyen, lent)"
 
 msgid "battle: deterministic events"
-msgstr ""
+msgstr "combat : événements personnalisés"
 
 msgid "game: show system info"
 msgstr "jeu : afficher les informations système"
